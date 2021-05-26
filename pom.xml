@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <properties>
-        <spring-context.version>5.1.0.RELEASE</spring-context.version>
+        <spring-context.version>5.2.15.RELEASE</spring-context.version>
         <aspectjweaver.version>1.9.1</aspectjweaver.version>
     </properties>
 
